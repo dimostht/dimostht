@@ -1,12 +1,9 @@
-![alt text](https://github.com/dimostht/dimostht/blob/main/1.jpg?raw=true)
 ### Hello 👋
 
 
 From Greece <br />
-Living in London, UK
-
-
-
+Living in London, UK<br />
+Currently studing Computing MSc Specialism at Imperial College London
 
 Contact me at dimost1999@gmail.com
 
