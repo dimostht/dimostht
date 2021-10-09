@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
 
-From Greece
-Living in London,Uk
+From Greece <br />
+Living in London, UK
+
+
+
+
+Contact me at dimost1999@gmail.com
 
 <!--
 **dimostht/dimostht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
