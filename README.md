@@ -3,8 +3,9 @@
 
 From Greece <br />
 Living in London, UK <br />
-Currently studing Computing MSc Specialism at Imperial College London <br />
+Currently studing MSc Computing Specialism at Imperial College London <br />
 Interested in Software Engineering, Machine Learning and Data Science <br />
+<a href="https://www.csd.auth.gr/en/">BSc Computer Science</a> at Aristotle University of Thessaloniki <br />
 You can find my Bachelor Dissertation <em>Deep Learning and Sentiment Analysis for Financial Data</em>, 
 <a href="https://raw.githubusercontent.com/dimostht/dimostht/main/Thesis%20Tsormpatzoudis_Dimosthenis.pdf" target="_blank">here</a>
 
