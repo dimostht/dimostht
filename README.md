@@ -1,8 +1,7 @@
 ### Hello 👋
 
 
-From Greece <br />
-Living in London, UK <br />
+Based in London, UK <br />
 Currently studing <a href="https://www.imperial.ac.uk/study/pg/computing/software-engineering/">MSc Computing (Software Engineering)</a> at Imperial College London <br />
 Interested in Software Engineering, Machine Learning and Data Science <br />
 <a href="https://www.csd.auth.gr/en/">BSc Computer Science</a> at Aristotle University of Thessaloniki <br />
