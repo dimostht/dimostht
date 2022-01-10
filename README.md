@@ -9,7 +9,8 @@ You can find my Bachelor Dissertation <em>Deep Learning and Sentiment Analysis f
 <a href="https://raw.githubusercontent.com/dimostht/dimostht/main/Thesis%20Tsormpatzoudis_Dimosthenis.pdf" target="_blank">here.</a>
 
 
-Find me on <a href="https://www.linkedin.com/in/dimosthenis-tsormpatzoudis/" target="_blank">LinkedIn</a>. <br />
+
+For more information visit my <a href="https://dimostht.github.io/" target="_blank">CV page</a> and find me on <a href="https://www.linkedin.com/in/dimosthenis-tsormpatzoudis/" target="_blank">LinkedIn</a>. <br />
 Contact me at dimost1999@gmail.com
 
 <!--
